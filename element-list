@@ -1,0 +1,4 @@
+com.bezkoder.spring.thymeleaf.pagination
+com.bezkoder.spring.thymeleaf.pagination.controller
+com.bezkoder.spring.thymeleaf.pagination.entity
+com.bezkoder.spring.thymeleaf.pagination.repository
