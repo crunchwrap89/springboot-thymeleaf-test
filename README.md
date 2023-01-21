@@ -74,3 +74,6 @@ Run both Back-end & Front-end in one place:
 mvn spring-boot:run
 ```
 
+Find tutorials on fun coding projects at
+[www.marcusn.dev](https://marcusn.dev)
+
